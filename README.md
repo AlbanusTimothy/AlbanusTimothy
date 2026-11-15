@@ -41,6 +41,13 @@ I like learning, building, and experimenting with different technologies, solvin
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
+## 🚀 Featured Projects
+
+- **[QuantmCore](https://github.com/albanustimothy)** – EA licensing and management platform.
+- **My LandlordHub** – Property management software.
+- **Python Projects** – Exploring programming through practical Python applications.
 
 ---
 
