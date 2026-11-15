@@ -40,11 +40,11 @@ I like learning, building, and experimenting with different technologies, solvin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white)
+
 
 ---
 
-## 🤝 How to Connect
+## Lets  Connect
 
 📸 Instagram: [@ym.albas](https://www.instagram.com/ym.albas/)
 
